@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/hello
+    url: jdbc:postgresql://localhost:5432/springMVC-Course
     username: postgres
     password: admin
     driver-class-name: org.postgresql.Driver
